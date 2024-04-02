@@ -330,6 +330,18 @@ Direktben/Irodán keresztül/E-mailben/[QRZ](https://www.qrz.com/)/[eQSL](http:/
 
 ---
 
+### Hagyományos rádióamatőr átjátszók használata
+
+Adott sávon belül, általában FM módban két frekvenciát használva, egyidőben az egyiken adva a másikon véve üzemel az átjátszó.
+
+|Frekvancia (lejövő)|Frekvencia (felmenő)|[CTCSS](https://wiki.ham.hu/index.php?title=CTCSS) (le/fel)|Üzemmód|Neve, helye|
+|-|-|-|:-:|:-:|
+|145.600 MHz|-0.6 MHz|114.8 / 114.8|Analóg, FM|HG5RVB, JN97LM|
+
+![BF LCD](https://punisher.com.ua/content/uploads/images/how-to-set-up-baofeng-uv-5r-correctly-uv-5ra-uv-5rb-uv-5re-bf-f8-pofung/how-to-set-up-baofeng-uv-5r-correctly-uv-5ra-uv-5rb-uv-5re-bf-f8-pofung.jpeg) [Magyarországi átjátszók](http://ha2to.orbel.hu/content/repeaters/hu/index.html) [Nemzetközi átjátszó lista](https://www.repeaterbook.com/row_repeaters/index.php?state_id=HU)
+
+---
+
 # Befejezés
 
 ## Ajánlott gyakorlat
