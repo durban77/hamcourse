@@ -56,7 +56,48 @@ Készült: [marp](https://marp.app/) [vscode](https://code.visualstudio.com/) [g
 
 ---
 
+# Zaj (﹙˓ 📶 ˒﹚)
 
+Zaj a hasznos információhoz hozzáadódó felesleges, ahhoz nem tartozó jel, amely a hasznos jel értelmezését nehezíti. 
+
+### Ha hallani akarod, akkor jel, 
+### ha nem akarod hallani, akkor zaj.
+
+---
+
+# QRN
+
+### Légköri jelenségek ⛈️ 🌀 🌪️
+
+Nézzük meg élőben: [Villámok](https://www.blitzortung.org/en/live_lightning_maps.php?map=10)
+
+### Kozmikus jelenségek 🌌 ☀️ 🌠
+
+Nézzük meg az előrejelzést: [Napfoltok](https://www.swpc.noaa.gov/products/solar-cycle-progression)
+
+###### Hő- és sörétzaj
+
+---
+
+# QRM
+
+### Nem szándékos zavarok ⚡ 🔋 🛞
+
+Elektromos eszközök, bármi amiben szikra van, elektromos hálózat.
+
+### Szándékos zavarok 📺📻 🛩 🔌 🗿
+
+BC, horizont alatti radar, kapcsoló üzemű táp, rosszul beállított amatőr rádió adó.
+
+---
+
+### Zajok várható eloszlása forrásaik szerint (RH)
+
+![zajok, vu2nsb, 2020](https://vu2nsb.com/wp-content/uploads/2019/11/5-Total-noise-.jpg)
+
+---
+
+TBD: https://www.westmountainradio.com/pdf/Quarter-1-2022.pdf
 
 ---
 
