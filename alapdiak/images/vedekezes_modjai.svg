@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="350" viewBox="0 0 220 350" font-family="sans-serif">
+  <!-- Szures -->
+  <polygon points="20,25 70,25 45,55" fill="none" stroke="#222" stroke-width="2"/>
+  <rect x="40" y="55" width="10" height="15" fill="none" stroke="#222" stroke-width="2"/>
+  <text x="90" y="40" font-size="14">Szűrés</text>
+
+  <!-- Csatolas csokkentese -->
+  <line x1="25" y1="95" x2="25" y2="125" stroke="#222" stroke-width="3"/>
+  <line x1="65" y1="95" x2="65" y2="125" stroke="#222" stroke-width="3"/>
+  <line x1="30" y1="110" x2="60" y2="110" stroke="#555" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <text x="45" y="88" text-anchor="middle" font-size="12">↕</text>
+  <text x="90" y="105" font-size="13">Csatolás</text>
+  <text x="90" y="122" font-size="13">csökkentése</text>
+
+  <!-- Arnyekolas -->
+  <rect x="15" y="160" width="60" height="40" fill="none" stroke="#222" stroke-width="2.5"/>
+  <line x1="20" y1="160" x2="12" y2="150" stroke="#222" stroke-width="1.5"/>
+  <line x1="35" y1="160" x2="27" y2="150" stroke="#222" stroke-width="1.5"/>
+  <line x1="50" y1="160" x2="42" y2="150" stroke="#222" stroke-width="1.5"/>
+  <line x1="65" y1="160" x2="57" y2="150" stroke="#222" stroke-width="1.5"/>
+  <circle cx="45" cy="180" r="4" fill="#222"/>
+  <text x="90" y="185" font-size="14">Árnyékolás</text>
+
+  <!-- Teljesitmeny csokkentese -->
+  <circle cx="45" cy="250" r="20" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="45" y1="250" x2="31" y2="263" stroke="#222" stroke-width="2"/>
+  <circle cx="45" cy="250" r="2.5" fill="#222"/>
+  <text x="90" y="245" font-size="13">Teljesítmény</text>
+  <text x="90" y="262" font-size="13">csökkentés</text>
+
+  <!-- Jo viszony a szomszedokkal -->
+  <polygon points="15,315 35,300 55,315" fill="none" stroke="#222" stroke-width="2"/>
+  <rect x="18" y="315" width="34" height="20" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="60,320 65,326 73,314" fill="none" stroke="#2a7" stroke-width="2.5"/>
+  <text x="90" y="320" font-size="13">Jó viszony a</text>
+  <text x="90" y="337" font-size="13">szomszédokkal</text>
+</svg>

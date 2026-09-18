@@ -4,11 +4,15 @@ title: Alkatrészek
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Alkatrészek
 
 ---
+
+![bg right:45% fit](images/ellenallas.svg)
 
 # Ellenállás
 
@@ -18,6 +22,8 @@ theme: gaia
 - $R = \dfrac{U}{I}$
 
 ---
+
+![bg right:45% fit](images/kondenzator.svg)
 
 # Kondenzátor
 
@@ -29,6 +35,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/tekercs.svg)
+
 # Induktivitás
 
 - mágneses mező tárolása
@@ -39,6 +47,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/dioda.svg)
+
 # Dióda
 
 - egyirányú vezetés
@@ -46,6 +56,8 @@ theme: gaia
 - LED is dióda
 
 ---
+
+![bg right:45% fit](images/tranzisztor.svg)
 
 # Tranzisztor
 

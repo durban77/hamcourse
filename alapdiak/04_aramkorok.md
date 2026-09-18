@@ -4,11 +4,15 @@ title: Áramkörök
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Áramkörök
 
 ---
+
+![bg right:45% fit](images/alaparamkor.svg)
 
 # Mi az az áramkör?
 
@@ -19,6 +23,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/soros.svg)
+
 # Soros kapcsolás
 
 - ugyanaz az áram folyik rajta
@@ -26,6 +32,8 @@ theme: gaia
 - $R_{e} = R_1 + R_2 + ...$
 
 ---
+
+![bg right:45% fit](images/parhuzamos.svg)
 
 # Párhuzamos kapcsolás
 
@@ -35,6 +43,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/rc_tag.svg)
+
 # RC tag
 
 - ellenállás + kondenzátor
@@ -42,6 +52,8 @@ theme: gaia
 - időállandó: $\tau = R \cdot C$
 
 ---
+
+![bg right:45% fit](images/rezgokor.svg)
 
 # Rezgőkör
 

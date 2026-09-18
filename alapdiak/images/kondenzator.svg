@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="240" viewBox="0 0 180 240" font-family="sans-serif">
+  <line x1="70" y1="10" x2="70" y2="100" stroke="#222" stroke-width="4"/>
+  <line x1="30" y1="100" x2="110" y2="100" stroke="#222" stroke-width="5"/>
+  <line x1="30" y1="120" x2="110" y2="120" stroke="#222" stroke-width="5"/>
+  <line x1="70" y1="120" x2="70" y2="210" stroke="#222" stroke-width="4"/>
+  <text x="120" y="118" font-size="28" font-weight="bold">C</text>
+  <text x="90" y="228" text-anchor="middle" font-size="18">Kondenzátor (C)</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="330" viewBox="0 0 280 330" font-family="sans-serif">
+  <!-- spektrum: ideal vs. tulvezerelt/szennyezett/zajos -->
+  <line x1="15" y1="100" x2="260" y2="100" stroke="#222" stroke-width="2"/>
+  <polygon points="260,100 250,94 250,106" fill="#222"/>
+
+  <polyline points="15,100 22,96 29,102 36,97 43,101 50,96 55,100" fill="none" stroke="#999" stroke-width="1.5"/>
+  <polyline points="185,99 192,102 199,96 206,100 213,97 220,101 230,99" fill="none" stroke="#999" stroke-width="1.5"/>
+
+  <polygon points="75,100 105,100 90,40" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <text x="90" y="34" text-anchor="middle" font-size="11" fill="#999">ideális</text>
+
+  <path d="M65,100 L80,55 L100,55 L115,100 Z" fill="#ddd" stroke="#1a1a1a" stroke-width="2.5"/>
+
+  <polygon points="142,100 158,100 150,75" fill="#1a1a1a"/>
+  <polygon points="167,100 183,100 175,82" fill="#1a1a1a"/>
+  <text x="150" y="113" text-anchor="middle" font-size="10">2f</text>
+  <text x="175" y="113" text-anchor="middle" font-size="10">3f</text>
+
+  <text x="140" y="132" text-anchor="middle" font-size="14">Túlvezérlés, harmonikusok, zaj</text>
+
+  <!-- rossz illesztes: elore es visszavert hullam -->
+  <rect x="15" y="195" width="70" height="40" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="50" y="220" text-anchor="middle" font-size="15">Adó</text>
+
+  <rect x="195" y="195" width="70" height="40" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="230" y="220" text-anchor="middle" font-size="14">Antenna</text>
+
+  <line x1="85" y1="205" x2="188" y2="205" stroke="#1a1a1a" stroke-width="2.5"/>
+  <polygon points="195,205 185,200 185,210" fill="#1a1a1a"/>
+  <text x="140" y="198" text-anchor="middle" font-size="12">előre</text>
+
+  <line x1="188" y1="225" x2="85" y2="225" stroke="#b33" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <polygon points="80,225 90,220 90,230" fill="#b33"/>
+  <text x="140" y="248" text-anchor="middle" font-size="13" fill="#b33">visszavert hullám</text>
+  <text x="140" y="266" text-anchor="middle" font-size="14">Rossz illesztés (magas SWR)</text>
+</svg>

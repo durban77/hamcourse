@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="225" viewBox="0 0 220 225" font-family="sans-serif">
+  <!-- CW: be/ki kapcsolt vivo (morse) -->
+  <line x1="10" y1="60" x2="210" y2="60" stroke="#bbb" stroke-width="1" stroke-dasharray="4,4"/>
+  <polyline points="20,60.0 22,38.3 24,81.7 26,60.0 28,38.3 30,81.7 32,60.0 34,38.3 36,81.7 38,60.0 40,38.3 42,81.7 42,60.0 44,60.0 46,60.0 48,60.0 50,60.0 52,60.0 52,60.0 54,38.3 56,81.7 58,60.0 60,38.3 62,81.7 64,60.0 66,38.3 68,81.7 70,60.0 72,38.3 74,81.7 74,60.0 76,60.0 78,60.0 80,60.0 82,60.0 84,60.0 84,60.0 86,38.3 88,81.7 90,60.0 92,38.3 94,81.7 96,60.0 98,38.3 100,81.7 102,60.0 104,38.3 106,81.7 108,60.0 110,38.3 112,81.7 114,60.0 116,38.3 118,81.7 120,60.0 122,38.3 124,81.7 126,60.0 128,38.3 128,60.0 130,60.0 132,60.0 134,60.0 136,60.0 138,60.0 140,60.0 142,60.0 144,60.0 146,60.0 148,60.0 150,60.0"
+            fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round"/>
+  <text x="110" y="100" text-anchor="middle" font-size="14">CW – be/ki kapcsolt vivő (Morse)</text>
+
+  <!-- SSB: spektrum, csak egy oldalsav marad -->
+  <line x1="10" y1="170" x2="200" y2="170" stroke="#222" stroke-width="2"/>
+  <polygon points="200,170 190,164 190,176" fill="#222"/>
+
+  <polygon points="45,170 75,170 60,130" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="48" y1="168" x2="72" y2="132" stroke="#b33" stroke-width="2"/>
+  <line x1="72" y1="168" x2="48" y2="132" stroke="#b33" stroke-width="2"/>
+
+  <polygon points="95,170 125,170 110,130" fill="none" stroke="#999" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="98" y1="168" x2="122" y2="132" stroke="#b33" stroke-width="2"/>
+  <line x1="122" y1="168" x2="98" y2="132" stroke="#b33" stroke-width="2"/>
+
+  <polygon points="145,170 175,170 160,130" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+
+  <text x="60" y="188" text-anchor="middle" font-size="12" fill="#999">LSB</text>
+  <text x="110" y="188" text-anchor="middle" font-size="12" fill="#999">vivő</text>
+  <text x="160" y="188" text-anchor="middle" font-size="13" font-weight="bold">USB</text>
+  <text x="110" y="208" text-anchor="middle" font-size="14">SSB – csak egy oldalsáv marad</text>
+</svg>

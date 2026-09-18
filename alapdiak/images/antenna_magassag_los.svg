@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="235" viewBox="0 0 330 235" font-family="sans-serif">
+  <path d="M20,175 Q165,200 310,175" fill="none" stroke="#222" stroke-width="2"/>
+
+  <line x1="70" y1="150" x2="70" y2="173" stroke="#222" stroke-width="4"/>
+  <text x="70" y="205" text-anchor="middle" font-size="12">Alacsony antenna</text>
+
+  <line x1="70" y1="150" x2="160" y2="168" stroke="#555" stroke-width="2" stroke-dasharray="5,4"/>
+  <line x1="155" y1="160" x2="165" y2="176" stroke="#b33" stroke-width="2.5"/>
+  <text x="115" y="140" text-anchor="middle" font-size="11" fill="#555">rövid hatótávolság</text>
+
+  <line x1="230" y1="105" x2="230" y2="173" stroke="#222" stroke-width="4"/>
+  <text x="230" y="205" text-anchor="middle" font-size="12">Magas antenna</text>
+
+  <line x1="230" y1="105" x2="320" y2="140" stroke="#555" stroke-width="2" stroke-dasharray="5,4"/>
+  <line x1="315" y1="132" x2="325" y2="148" stroke="#b33" stroke-width="2.5"/>
+  <text x="280" y="95" text-anchor="middle" font-size="11" fill="#555">nagy hatótávolság</text>
+
+  <text x="165" y="228" text-anchor="middle" font-size="14">Magasabb antenna → nagyobb látóhatár (LOS)</text>
+</svg>

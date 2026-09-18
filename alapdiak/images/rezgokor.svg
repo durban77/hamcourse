@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="215" viewBox="0 0 240 215" font-family="sans-serif">
+  <!-- busz vonalak -->
+  <line x1="60" y1="30" x2="180" y2="30" stroke="#222" stroke-width="3"/>
+  <line x1="60" y1="170" x2="180" y2="170" stroke="#222" stroke-width="3"/>
+
+  <!-- L ag -->
+  <line x1="60" y1="30" x2="60" y2="60" stroke="#222" stroke-width="3"/>
+  <path d="M60,60 A15,15 0 0 1 60,90 A15,15 0 0 1 60,120 A15,15 0 0 1 60,150"
+        fill="none" stroke="#222" stroke-width="3"/>
+  <line x1="60" y1="150" x2="60" y2="170" stroke="#222" stroke-width="3"/>
+  <text x="90" y="105" font-size="18" font-weight="bold">L</text>
+
+  <!-- C ag -->
+  <line x1="180" y1="30" x2="180" y2="90" stroke="#222" stroke-width="3"/>
+  <line x1="165" y1="90" x2="195" y2="90" stroke="#222" stroke-width="5"/>
+  <line x1="165" y1="105" x2="195" y2="105" stroke="#222" stroke-width="5"/>
+  <line x1="180" y1="105" x2="180" y2="170" stroke="#222" stroke-width="3"/>
+  <text x="200" y="102" font-size="18" font-weight="bold">C</text>
+
+  <!-- csomopontok -->
+  <circle cx="60" cy="30" r="4" fill="#222"/>
+  <circle cx="180" cy="30" r="4" fill="#222"/>
+  <circle cx="60" cy="170" r="4" fill="#222"/>
+  <circle cx="180" cy="170" r="4" fill="#222"/>
+
+  <text x="120" y="195" text-anchor="middle" font-size="16">Rezgőkör (LC)</text>
+</svg>

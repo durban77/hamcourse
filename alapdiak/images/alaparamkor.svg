@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="215" viewBox="0 0 280 215" font-family="sans-serif">
+  <!-- keret -->
+  <line x1="60" y1="30" x2="220" y2="30" stroke="#222" stroke-width="3"/>
+  <line x1="60" y1="170" x2="220" y2="170" stroke="#222" stroke-width="3"/>
+  <line x1="60" y1="30" x2="60" y2="90" stroke="#222" stroke-width="3"/>
+  <line x1="60" y1="110" x2="60" y2="170" stroke="#222" stroke-width="3"/>
+  <line x1="220" y1="30" x2="220" y2="80" stroke="#222" stroke-width="3"/>
+  <line x1="220" y1="120" x2="220" y2="170" stroke="#222" stroke-width="3"/>
+
+  <!-- telep (energiaforras) -->
+  <line x1="40" y1="95" x2="80" y2="95" stroke="#222" stroke-width="3"/>
+  <line x1="48" y1="110" x2="72" y2="110" stroke="#222" stroke-width="7"/>
+  <text x="88" y="92" font-size="16">+</text>
+  <text x="88" y="116" font-size="16">−</text>
+
+  <!-- fogyaszto (ellenallas) -->
+  <rect x="205" y="80" width="30" height="40" fill="none" stroke="#222" stroke-width="3"/>
+
+  <!-- aramirany -->
+  <polygon points="140,24 152,30 140,36" fill="#222"/>
+  <text x="132" y="18" font-size="14">I</text>
+
+  <text x="60" y="195" text-anchor="middle" font-size="15">Energiaforrás</text>
+  <text x="220" y="195" text-anchor="middle" font-size="15">Fogyasztó</text>
+</svg>

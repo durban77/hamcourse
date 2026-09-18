@@ -4,11 +4,15 @@ title: Mérések
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Mérések
 
 ---
+
+![bg right:48% fit](images/meres_celja.svg)
 
 # Mérés célja
 
@@ -20,13 +24,17 @@ theme: gaia
 
 # Mérendő mennyiségek
 
-- feszültség
-- áram
-- ellenállás
-- teljesítmény
-- frekvencia
+| Mennyiség | Jelölés | Mértékegység |
+|---|---|---|
+| feszültség | U | V |
+| áram | I | A |
+| ellenállás | R | Ω |
+| teljesítmény | P | W |
+| frekvencia | f | Hz |
 
 ---
+
+![bg right:40% fit](images/meroeszkozok.svg)
 
 # Mérőeszközök
 
@@ -38,6 +46,8 @@ theme: gaia
 
 ---
 
+![bg right:40% fit](images/swr_diagram.svg)
+
 # SWR
 
 - állóhullámarány
@@ -46,6 +56,8 @@ theme: gaia
 
 ---
 
+![bg right:42% fit](images/meres_figyelmeztetes.svg)
+
 # Fontos szabályok
 
 - ne mérj ellenállást feszültség alatt
@@ -53,6 +65,8 @@ theme: gaia
 - a helyes bekötés lényeges
 
 ---
+
+![bg right:40% fit](images/meres_osszefoglalas.svg)
 
 # Összefoglalás
 

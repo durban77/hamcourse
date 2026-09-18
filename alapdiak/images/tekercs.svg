@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="320" viewBox="0 0 180 320" font-family="sans-serif">
+  <line x1="70" y1="10" x2="70" y2="60" stroke="#222" stroke-width="4"/>
+  <path d="M70,60 A20,20 0 0 1 70,100 A20,20 0 0 1 70,140 A20,20 0 0 1 70,180 A20,20 0 0 1 70,220"
+        fill="none" stroke="#222" stroke-width="4"/>
+  <line x1="70" y1="220" x2="70" y2="270" stroke="#222" stroke-width="4"/>
+  <text x="115" y="145" font-size="28" font-weight="bold">L</text>
+  <text x="90" y="298" text-anchor="middle" font-size="18">Induktivitás (L)</text>
+</svg>

@@ -4,6 +4,8 @@ title: Hullámterjedés
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Hullámterjedés
@@ -12,13 +14,17 @@ theme: gaia
 
 # Mi befolyásolja a terjedést?
 
-- frekvencia
-- antenna magassága
-- időjárás
-- ionoszféra
-- terep
+| Tényező | Hatása |
+|---|---|
+| frekvencia | frekvencia ↑ → elnyelődés,  hatótávolság ↓ |
+| antenna magassága | nagyobb látóhatár |
+| eső, köd | a magasabb frekvenciás jeleket jobban gyengíti |
+| ionoszféra | rövidhullámon visszaverheti a jelet, nagy távolságot áthidalva |
+| terep | hegyek, épületek árnyékolják vagy eltérítik a hullámot |
 
 ---
+
+![bg right:45% fit](images/foldi_terjedes.svg)
 
 # Földi terjedés
 
@@ -26,6 +32,8 @@ theme: gaia
 - távolság növekedésével csökken a jel
 
 ---
+
+![bg right:45% fit](images/ionoszfera.svg)
 
 # Ionoszféra
 
@@ -35,6 +43,8 @@ theme: gaia
 
 ---
 
+![bg right:48% fit](images/antenna_magassag_los.svg)
+
 # VHF és UHF
 
 - line of sight
@@ -42,6 +52,8 @@ theme: gaia
 - időjárási hatás is lehet
 
 ---
+
+![bg right:40% fit](images/fading.svg)
 
 # Fading
 

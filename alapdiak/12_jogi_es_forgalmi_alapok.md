@@ -4,11 +4,15 @@ title: Jogi és forgalmi alapok
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Jogi és forgalmi alapok
 
 ---
+
+![bg right:48% fit](images/fontos_alapok.svg)
 
 # Fontos alapok
 
@@ -18,6 +22,8 @@ theme: gaia
 - szabályok betartása
 
 ---
+
+![bg right:52% fit](images/hivojel_felepitese.svg)
 
 # Hívójelek
 
@@ -29,11 +35,17 @@ theme: gaia
 
 # Forgalmi rövidítések
 
-- Q-kódok
-- rövidítések
-- hatékony kommunikáció
+| Rövidítés | Jelentés |
+|---|---|
+| QRZ? | Ki hív engem? |
+| QTH | Helyszín |
+| QSL | Vétel visszaigazolása |
+| QRM | Zavarás |
+| 73 | Üdvözlet |
 
 ---
+
+![bg right:40% fit](images/kozossegi_felelosseg.svg)
 
 # Közösségi felelősség
 
@@ -42,6 +54,8 @@ theme: gaia
 - nincs zavarás másoknak
 
 ---
+
+![bg right:40% fit](images/jogi_osszefoglalas.svg)
 
 # Összefoglalás
 

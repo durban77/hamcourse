@@ -4,11 +4,15 @@ title: Vevők
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Vevők
 
 ---
+
+![bg right:40% fit](images/vevo_feladata.svg)
 
 # A vevő feladata
 
@@ -18,6 +22,8 @@ theme: gaia
 - demodulálása
 
 ---
+
+![bg right:48% fit](images/superhet_blokkvazlat.svg)
 
 # Alapvető blokkok
 
@@ -30,6 +36,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/superhet_kf.svg)
+
 # Superhet szerkezet
 
 - fix középfrekvencia
@@ -40,12 +48,16 @@ theme: gaia
 
 # Vevőjellemzők
 
-- érzékenység
-- szelektivitás
-- stabilitás
-- zaj
+| Jellemző | Mit jelent |
+|---|---|
+| érzékenység | milyen gyenge jelet tud még feldolgozni |
+| szelektivitás | mennyire különíti el a szomszédos csatornákat |
+| stabilitás | mennyire tartja meg a hangolást |
+| zaj | mennyi zajt tesz hozzá a jelhez a vevő maga |
 
 ---
+
+![bg right:40% fit](images/am_fm.svg)
 
 # Demoduláció
 

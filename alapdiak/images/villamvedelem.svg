@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="270" viewBox="0 0 180 270" font-family="sans-serif">
+  <polyline points="90,10 80,35 95,35 85,58" fill="none" stroke="#b33" stroke-width="3"/>
+  <circle cx="90" cy="58" r="3" fill="#222"/>
+  <line x1="90" y1="61" x2="90" y2="100" stroke="#222" stroke-width="3"/>
+
+  <rect x="60" y="100" width="60" height="80" fill="none" stroke="#222" stroke-width="2.5"/>
+
+  <line x1="90" y1="180" x2="90" y2="210" stroke="#222" stroke-width="2.5"/>
+  <line x1="70" y1="210" x2="110" y2="210" stroke="#222" stroke-width="2.5"/>
+  <line x1="77" y1="218" x2="103" y2="218" stroke="#222" stroke-width="2.5"/>
+  <line x1="84" y1="226" x2="96" y2="226" stroke="#222" stroke-width="2.5"/>
+
+  <text x="90" y="245" text-anchor="middle" font-size="13">Villámvédelem:</text>
+  <text x="90" y="262" text-anchor="middle" font-size="13">biztonságos földelés</text>
+</svg>

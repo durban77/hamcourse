@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="320" viewBox="0 0 200 320" font-family="sans-serif">
+  <polyline points="20,40 40,22.3 60,15 80,22.3 100,40 120,57.7 140,65 160,57.7 180,40"
+            fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="100" y="82" text-anchor="middle" font-size="13">Hasznos jel</text>
+
+  <text x="100" y="108" text-anchor="middle" font-size="22">+</text>
+
+  <polyline points="20,140 30,125 40,150 50,130 60,155 70,120 80,145 90,160 100,125 110,150 120,135 130,158 140,122 150,148 160,132 170,152 180,140"
+            fill="none" stroke="#b33" stroke-width="2" stroke-linejoin="round"/>
+  <text x="100" y="182" text-anchor="middle" font-size="13">Zavaró jel (zaj)</text>
+
+  <text x="100" y="208" text-anchor="middle" font-size="22">=</text>
+
+  <polyline points="20,245 40,216.3 60,223 80,218.3 100,247 120,252.7 140,271 160,250.7 180,244"
+            fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="100" y="298" text-anchor="middle" font-size="13">Vett jel (romlott)</text>
+</svg>

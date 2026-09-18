@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="175" viewBox="0 0 270 175" font-family="sans-serif">
+  <!-- Sugarzas (ado antenna, hullam kifele halad) -->
+  <line x1="40" y1="60" x2="40" y2="100" stroke="#222" stroke-width="4"/>
+  <circle cx="40" cy="80" r="4" fill="#fff" stroke="#222" stroke-width="2"/>
+
+  <path d="M52,60 Q68,80 52,100" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <path d="M59,48 Q85,80 59,112" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <path d="M66,36 Q102,80 66,124" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+
+  <line x1="108" y1="80" x2="122" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+  <polygon points="128,80 118,74 118,86" fill="#1a1a1a"/>
+
+  <text x="80" y="155" text-anchor="middle" font-size="15">Sugárzás (adás)</text>
+
+  <!-- Vetel (vevo antenna, hullam befele erkezik) -->
+  <line x1="220" y1="60" x2="220" y2="100" stroke="#222" stroke-width="4"/>
+  <circle cx="220" cy="80" r="4" fill="#fff" stroke="#222" stroke-width="2"/>
+
+  <path d="M208,60 Q192,80 208,100" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <path d="M201,48 Q175,80 201,112" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <path d="M194,36 Q158,80 194,124" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+
+  <line x1="135" y1="80" x2="149" y2="80" stroke="#1a1a1a" stroke-width="2.5"/>
+  <polygon points="155,80 145,74 145,86" fill="#1a1a1a"/>
+
+  <text x="190" y="155" text-anchor="middle" font-size="15">Vétel</text>
+</svg>

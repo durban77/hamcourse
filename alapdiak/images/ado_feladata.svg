@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="345" viewBox="0 0 200 345" font-family="sans-serif">
+  <rect x="20" y="10" width="160" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="100" y="40" text-anchor="middle" font-size="16">Jel előállítása</text>
+
+  <line x1="100" y1="60" x2="100" y2="90" stroke="#222" stroke-width="3"/>
+  <polygon points="100,100 94,90 106,90" fill="#222"/>
+
+  <rect x="20" y="100" width="160" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="100" y="130" text-anchor="middle" font-size="15">Frekvencia létrehozása</text>
+
+  <line x1="100" y1="150" x2="100" y2="180" stroke="#222" stroke-width="3"/>
+  <polygon points="100,190 94,180 106,180" fill="#222"/>
+
+  <rect x="20" y="190" width="160" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="100" y="220" text-anchor="middle" font-size="18">Moduláció</text>
+
+  <line x1="100" y1="240" x2="100" y2="270" stroke="#222" stroke-width="3"/>
+  <polygon points="100,280 94,270 106,270" fill="#222"/>
+
+  <rect x="20" y="280" width="160" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="100" y="310" text-anchor="middle" font-size="15">Teljesítmény leadása</text>
+</svg>

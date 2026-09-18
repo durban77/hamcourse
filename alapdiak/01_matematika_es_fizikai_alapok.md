@@ -4,6 +4,8 @@ title: Matematikai és fizikai alapok
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Matematikai és fizikai alapok
@@ -20,38 +22,43 @@ theme: gaia
 
 # SI mértékegységek
 
-- hossz: m
-- tömeg: kg
-- idő: s
-- áramerősség: A
-- hőmérséklet: K
+| Mennyiség | Mértékegység |
+|---|---|
+| hossz | m |
+| tömeg | kg |
+| idő | s |
+| áramerősség | A |
+| hőmérséklet | K |
 
 ---
 
 # Prefixumok
 
-- T = 10^12
-- G = 10^9
-- M = 10^6
-- k = 10^3
-- m = 10^-3
-- µ = 10^-6
-- n = 10^-9
-- p = 10^-12
+| Prefixum | Jel | Szorzó | Példa |
+|---|---|---|---|
+| tera | T | $10^{12}$ | 1 THz |
+| giga | G | $10^{9}$ | 2,4 GHz (WiFi) |
+| mega | M | $10^{6}$ | 14 MHz (RH sáv) |
+| kiló | k | $10^{3}$ | 145 kHz |
+| milli | m | $10^{-3}$ | 100 mA |
+| mikro | µ | $10^{-6}$ | 470 µF |
+| nano | n | $10^{-9}$ | 10 ns |
+| piko | p | $10^{-12}$ | 22 pF |
 
 ---
 
 # Alapműveletek
 
-- összeadás
-- kivonás
-- szorzás
-- osztás
-
-- hatványozás
-- gyökvonás
+| Egyszerű műveletek | Összetett műveletek |
+|---|---|
+| összeadás (+) | hatványozás |
+| kivonás (−) | gyökvonás |
+| szorzás (×) | |
+| osztás (÷) | |
 
 ---
+
+![bg right:45% fit](images/ohm_teljesitmeny_haromszog.svg)
 
 # Fontos összefüggés
 

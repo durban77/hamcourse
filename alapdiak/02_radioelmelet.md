@@ -4,6 +4,8 @@ title: Rádióelmélet
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Rádióelmélet
@@ -12,12 +14,16 @@ theme: gaia
 
 # Elektromos alapok
 
-- töltés
-- feszültség
-- áram
-- ellenállás
+| Elektromos mennyiség | Vízanalógia |
+|---|---|
+| töltés (Q) | vízmennyiség |
+| feszültség (U) | nyomáskülönbség |
+| áram (I) | vízáramlás sebessége |
+| ellenállás (R) | csővezeték szűkülete |
 
 ---
+
+![bg right:45% fit](images/ohm_haromszog.svg)
 
 # Ohm-törvény
 
@@ -27,6 +33,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/teljesitmeny_haromszog.svg)
+
 # Teljesítmény
 
 - $P = U \cdot I$
@@ -34,6 +42,8 @@ theme: gaia
 - energia és munka kapcsolata
 
 ---
+
+![bg right:45% fit](images/em_hullam.svg)
 
 # Elektromágneses tér
 
@@ -43,6 +53,8 @@ theme: gaia
 
 ---
 
+![bg right:45% fit](images/hullamhossz.svg)
+
 # Frekvencia és hullámhossz
 
 - $c = f \cdot \lambda$
@@ -51,6 +63,8 @@ theme: gaia
 - hullámhossz: m
 
 ---
+
+![bg right:45% fit](images/szinuszos_jel.svg)
 
 # Szinuszos jel
 

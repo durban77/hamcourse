@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="350" viewBox="0 0 220 350" font-family="sans-serif">
+  <!-- Multimeter -->
+  <rect x="20" y="25" width="50" height="30" fill="none" stroke="#222" stroke-width="2"/>
+  <rect x="28" y="31" width="34" height="12" fill="#ddd" stroke="#222" stroke-width="1"/>
+  <line x1="30" y1="55" x2="30" y2="65" stroke="#222" stroke-width="2"/>
+  <line x1="60" y1="55" x2="60" y2="65" stroke="#222" stroke-width="2"/>
+  <text x="85" y="45" font-size="14">Multiméter</text>
+
+  <!-- Teljesitmenymero -->
+  <circle cx="45" cy="110" r="22" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="45" y1="110" x2="60" y2="95" stroke="#222" stroke-width="2"/>
+  <circle cx="45" cy="110" r="2.5" fill="#222"/>
+  <text x="85" y="115" font-size="14">Teljesítménymérő</text>
+
+  <!-- SWR mero (keresztmutatos) -->
+  <circle cx="45" cy="180" r="22" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="33" y1="168" x2="57" y2="192" stroke="#222" stroke-width="1.5"/>
+  <line x1="57" y1="168" x2="33" y2="192" stroke="#222" stroke-width="1.5"/>
+  <text x="85" y="185" font-size="14">SWR-mérő</text>
+
+  <!-- Frekvenciamero -->
+  <rect x="20" y="235" width="50" height="30" fill="none" stroke="#222" stroke-width="2"/>
+  <text x="45" y="255" text-anchor="middle" font-size="11">14.070</text>
+  <text x="85" y="255" font-size="14">Frekvenciamérő</text>
+
+  <!-- Oszcilloszkop -->
+  <rect x="15" y="300" width="60" height="40" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="20,320 27,308 34,332 41,308 48,332 55,320 62,308 68,320" fill="none" stroke="#222" stroke-width="1.5"/>
+  <text x="85" y="325" font-size="14">Oszcilloszkóp</text>
+</svg>

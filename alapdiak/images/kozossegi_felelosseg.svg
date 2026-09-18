@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220" font-family="sans-serif">
+  <line x1="110" y1="30" x2="50" y2="170" stroke="#999" stroke-width="1.5"/>
+  <line x1="110" y1="30" x2="170" y2="170" stroke="#999" stroke-width="1.5"/>
+  <line x1="50" y1="170" x2="170" y2="170" stroke="#999" stroke-width="1.5"/>
+
+  <circle cx="110" cy="30" r="12" fill="none" stroke="#222" stroke-width="2"/>
+  <circle cx="50" cy="170" r="12" fill="none" stroke="#222" stroke-width="2"/>
+  <circle cx="170" cy="170" r="12" fill="none" stroke="#222" stroke-width="2"/>
+
+  <polyline points="98,123 106,131 123,108" fill="none" stroke="#2a7" stroke-width="3"/>
+
+  <text x="110" y="205" text-anchor="middle" font-size="14">Közösségi felelősség</text>
+</svg>

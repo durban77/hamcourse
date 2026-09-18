@@ -4,11 +4,15 @@ title: Antennák és tápvonalak
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Antennák és tápvonalak
 
 ---
+
+![bg right:40% fit](images/antenna_feladata.svg)
 
 # Antennák feladata
 
@@ -18,14 +22,19 @@ theme: gaia
 
 ---
 
+![bg right:48% fit](images/antenna_tipusok.svg)
+
 # Alapvető típusok
 
 - dipól
 - félhullámú antenna
 - függőleges antenna
 - Yagi antenna
+- hosszú drót
 
 ---
+
+![bg right:42% fit](images/antenna_jellemzok.svg)
 
 # Jellemzők
 
@@ -36,6 +45,8 @@ theme: gaia
 
 ---
 
+![bg right:48% fit](images/coax_kabel.svg)
+
 # Tápvonal
 
 - kábel kapcsolja az adót és az antennát
@@ -43,6 +54,8 @@ theme: gaia
 - koaxiális kábel a leggyakoribb
 
 ---
+
+![bg right:38% fit](images/swr_diagram.svg)
 
 # SWR
 

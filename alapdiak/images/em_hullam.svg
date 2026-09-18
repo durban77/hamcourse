@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="245" viewBox="0 0 230 245" font-family="sans-serif">
+  <!-- haladasi irany tengely -->
+  <line x1="10" y1="140" x2="205" y2="140" stroke="#555" stroke-width="2"/>
+  <polygon points="205,132 222,140 205,148" fill="#555"/>
+  <text x="200" y="165" font-size="14" fill="#555">c</text>
+
+  <!-- E mezo (fuggoleges sikban) -->
+  <polyline points="20,140 30,108.2 40,95 50,108.2 60,140 70,171.8 80,185 90,171.8 100,140 110,108.2 120,95 130,108.2 140,140 150,171.8 160,185 170,171.8 180,140"
+            fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+  <text x="118" y="80" font-size="22" font-weight="bold">E</text>
+
+  <!-- B mezo (vizszintes sikban, perspektivikusan lapitva) -->
+  <polyline points="20,140 30,129.4 40,125 50,129.4 60,140 70,150.6 80,155 90,150.6 100,140 110,129.4 120,125 130,129.4 140,140 150,150.6 160,155 170,150.6 180,140"
+            fill="none" stroke="#888" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round"/>
+  <text x="150" y="118" font-size="20" font-weight="bold" fill="#888">B</text>
+
+  <text x="115" y="225" text-anchor="middle" font-size="14">Elektromágneses hullám: E ⟂ B ⟂ c</text>
+</svg>

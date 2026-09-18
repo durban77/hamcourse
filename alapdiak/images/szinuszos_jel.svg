@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="225" viewBox="0 0 210 225" font-family="sans-serif">
+  <line x1="10" y1="100" x2="190" y2="100" stroke="#bbb" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- alap szinuszos jel -->
+  <polyline points="20,100 40,71.7 60,60 80,71.7 100,100 120,128.3 140,140 160,128.3 180,100"
+            fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- fazisban eltolt jel -->
+  <polyline points="20,133.3 40,107.8 60,77.8 80,60.8 100,66.7 120,92.2 140,122.2 160,139.2 180,133.3"
+            fill="none" stroke="#888" stroke-width="2" stroke-dasharray="6,4" stroke-linejoin="round"/>
+
+  <!-- amplitudo nyil -->
+  <line x1="60" y1="100" x2="60" y2="60" stroke="#333" stroke-width="1.5"/>
+  <polygon points="60,60 56,68 64,68" fill="#333"/>
+  <text x="72" y="82" font-size="18" font-style="italic">A</text>
+
+  <!-- fazis eltolodas jelolese -->
+  <line x1="20" y1="100" x2="46" y2="100" stroke="#333" stroke-width="1.5"/>
+  <text x="24" y="92" font-size="16" font-style="italic">φ</text>
+
+  <!-- periodus jelolo -->
+  <line x1="20" y1="180" x2="180" y2="180" stroke="#555" stroke-width="2"/>
+  <polygon points="20,180 30,175 30,185" fill="#555"/>
+  <polygon points="180,180 170,175 170,185" fill="#555"/>
+  <text x="100" y="205" text-anchor="middle" font-size="20" font-style="italic">T</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="210" viewBox="0 0 210 210" font-family="sans-serif">
+  <line x1="10" y1="100" x2="190" y2="100" stroke="#bbb" stroke-width="1" stroke-dasharray="4,4"/>
+  <polyline points="20,100 40,71.7 60,60 80,71.7 100,100 120,128.3 140,140 160,128.3 180,100"
+            fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+
+  <!-- hullamhossz jelolo nyil -->
+  <line x1="20" y1="170" x2="180" y2="170" stroke="#555" stroke-width="2"/>
+  <polygon points="20,170 30,165 30,175" fill="#555"/>
+  <polygon points="180,170 170,165 170,175" fill="#555"/>
+  <text x="100" y="195" text-anchor="middle" font-size="22" font-style="italic">λ</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="345" viewBox="0 0 180 345" font-family="sans-serif">
+  <rect x="20" y="10" width="140" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="90" y="40" text-anchor="middle" font-size="18">Antenna</text>
+
+  <line x1="90" y1="60" x2="90" y2="90" stroke="#222" stroke-width="3"/>
+  <polygon points="90,100 84,90 96,90" fill="#222"/>
+
+  <rect x="20" y="100" width="140" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="90" y="130" text-anchor="middle" font-size="18">Erősítés</text>
+
+  <line x1="90" y1="150" x2="90" y2="180" stroke="#222" stroke-width="3"/>
+  <polygon points="90,190 84,180 96,180" fill="#222"/>
+
+  <rect x="20" y="190" width="140" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="90" y="220" text-anchor="middle" font-size="18">Kiválasztás</text>
+
+  <line x1="90" y1="240" x2="90" y2="270" stroke="#222" stroke-width="3"/>
+  <polygon points="90,280 84,270 96,270" fill="#222"/>
+
+  <rect x="20" y="280" width="140" height="50" fill="none" stroke="#222" stroke-width="3"/>
+  <text x="90" y="310" text-anchor="middle" font-size="17">Demoduláció</text>
+</svg>

@@ -4,11 +4,15 @@ title: Villamos biztonságtechnika
 author: Urbán Dániel
 paginate: true
 theme: gaia
+math: mathjax
+class: lead
 ---
 
 # Villamos biztonságtechnika
 
 ---
+
+![bg right:48% fit](images/veszely_forrasok.svg)
 
 # A veszély forrása
 
@@ -19,6 +23,8 @@ theme: gaia
 
 ---
 
+![bg right:42% fit](images/vedofoldeles.svg)
+
 # Védőföldelés
 
 - a veszély csökkentése
@@ -26,6 +32,8 @@ theme: gaia
 - biztonságos építés
 
 ---
+
+![bg right:42% fit](images/biztositekok.svg)
 
 # Biztosítékok
 
@@ -35,6 +43,8 @@ theme: gaia
 
 ---
 
+![bg right:36% fit](images/nagyfeszultseg.svg)
+
 # Nagyfeszültség
 
 - veszélyes lehet
@@ -43,6 +53,8 @@ theme: gaia
 
 ---
 
+![bg right:36% fit](images/villamvedelem.svg)
+
 # Villámvédelem
 
 - antennák és villámvédelem
@@ -50,6 +62,8 @@ theme: gaia
 - csökkenti a károkat
 
 ---
+
+![bg right:40% fit](images/biztonsag_osszefoglalas.svg)
 
 # Összefoglalás
 

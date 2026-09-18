@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="150" viewBox="0 0 220 150" font-family="sans-serif">
+  <text x="110" y="20" text-anchor="middle" font-size="13">Biztosítékok: túláram / zárlat védelem</text>
+
+  <rect x="20" y="60" width="70" height="20" fill="none" stroke="#222" stroke-width="2"/>
+  <line x1="20" y1="70" x2="90" y2="70" stroke="#222" stroke-width="1.5"/>
+  <text x="55" y="105" text-anchor="middle" font-size="13">Gyors</text>
+
+  <rect x="130" y="60" width="70" height="20" fill="none" stroke="#222" stroke-width="2"/>
+  <polyline points="130,70 140,62 150,78 160,62 170,78 180,62 190,78 200,70" fill="none" stroke="#222" stroke-width="1.5"/>
+  <text x="165" y="105" text-anchor="middle" font-size="13">Lassú</text>
+
+  <text x="110" y="132" text-anchor="middle" font-size="12">gyors vs. lassú kioldás</text>
+</svg>
