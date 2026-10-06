@@ -54,11 +54,11 @@ b) arra a természetes személyre, civil szervezetre, valamint oktatási intézm
 
 **4. §** (1) A kiadott amatőr engedély szerint az amatőrállomás
 
-a) egyéni,
+ - a) egyéni,
 
-b) közösségi, vagy
+ - b) közösségi, vagy
 
-c) különleges amatőrállomás.
+ - c) különleges amatőrállomás.
 
 (2) Egyéni amatőrállomást egy természetes személy tart üzemben.
 
@@ -66,47 +66,45 @@ c) különleges amatőrállomás.
 
 (4) Különleges amatőrállomás az egyéni, illetve közösségi üzemben tartástól függetlenül:
 
-a) a rádióamatőr átjátszó állomás, amely alkalmas a különféle adásmódú, rádióamatőr célt szolgáló adás automatikus továbbítására azonos rádióamatőr sávon belül vagy különböző rádióamatőr sávok között;
+ - a) a rádióamatőr átjátszó állomás, amely alkalmas a különféle adásmódú, rádióamatőr célt szolgáló adás automatikus továbbítására azonos rádióamatőr sávon belül vagy különböző rádióamatőr sávok között;
 
-b) a rádióamatőr jeladó állomás, amely általában folyamatos működésű, felügyelet nélküli amatőrállomás egy adott helyen, és amely meghatározott időnként azonosító információt – a köztes időszakban modulálatlan vivőt – sugároz az elektromágneses hullámok terjedésének tanulmányozására, vizsgálatára, az amatőrállomás berendezéseinek ellenőrzésére vagy egyéb rádióamatőr tevékenység elősegítésére;
+ - b) a rádióamatőr jeladó állomás, amely általában folyamatos működésű, felügyelet nélküli amatőrállomás egy adott helyen, és amely meghatározott időnként azonosító információt – a köztes időszakban modulálatlan vivőt – sugároz az elektromágneses hullámok terjedésének tanulmányozására, vizsgálatára, az amatőrállomás berendezéseinek ellenőrzésére vagy egyéb rádióamatőr tevékenység elősegítésére;
 
-c) a rádiós tájfutó versenyen elhelyezett amatőrállomás;
+ - c) a rádiós tájfutó versenyen elhelyezett amatőrállomás;
 
-d) a rádióamatőr kapuállomás, amely rádióamatőr átjátszó állomások vagy más rádióamatőr célú rendszer összekapcsolását megvalósító amatőrállomás;
+ - d) a rádióamatőr kapuállomás, amely rádióamatőr átjátszó állomások vagy más rádióamatőr célú rendszer összekapcsolását megvalósító amatőrállomás;
 
-e) a rádióamatőr információt sugárzó amatőrállomás;
+ - e) a rádióamatőr információt sugárzó amatőrállomás;
 
-f) a rádióforgalmi versenyen működtetett amatőrállomás (a továbbiakban: versenyállomás);
+ - f) a rádióforgalmi versenyen működtetett amatőrállomás (a továbbiakban: versenyállomás);
 
-g) a nemzeti ünnep, történelmi évforduló, közismert személyről való megemlékezés, vagy egyéb rendezvény alkalmából működtetett amatőrállomás (a továbbiakban együtt: alkalmi amatőrállomás).
+ - g) a nemzeti ünnep, történelmi évforduló, közismert személyről való megemlékezés, vagy egyéb rendezvény alkalmából működtetett amatőrállomás (a továbbiakban együtt: alkalmi amatőrállomás).
 
 (5) Az amatőrállomás vagy annak fő berendezése
 
-a) a rádióberendezésekről szóló NMHH rendeletnek megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
+ - a) a rádióberendezésekről szóló NMHH rendeletnek megfelelően kereskedelmi forgalomba hozott rádióberendezés vagy annak része, vagy
 
-b) CEPT NOVICE vagy CEPT HAREC fokozatú rádióamatőr engedéllyel rendelkező rádióamatőr által vagy rádióamatőr számára épített vagy átalakított berendezés
-
-lehet.
+ - b) CEPT NOVICE vagy CEPT HAREC fokozatú rádióamatőr engedéllyel rendelkező rádióamatőr által vagy rádióamatőr számára épített vagy átalakított berendezés lehet.
 
 ## 5. Rádióamatőr vizsga
 
 **5. §** (1) A rádióamatőr vizsga a hatóság előtt tett vizsga, amelynek az alábbi fokozatai a következő fokozatokban tehető:
 
-a) Kezdőfokozat,
+ - a) Kezdőfokozat,
 
-b) Alapfokozat, vagy
+ - b) Alapfokozat, vagy
 
-c) a harmonizált rádióamatőr vizsgabizonyítványról szóló CEPT T/R 61-02 Ajánlásnak megfelelő (a továbbiakban: HAREC) fokozat.
+ - c) a harmonizált rádióamatőr vizsgabizonyítványról szóló CEPT T/R 61-02 Ajánlásnak megfelelő (a továbbiakban: HAREC) fokozat.
 
 (2) Minden olyan természetes személy, aki:
 
-a) a 14. évét még nem töltötte be, de vizsgára jelentkezését a rádióamatőrök nemzeti képviseleti és érdekvédelmi szervezete támogatja, Kezdő fokozatú;
+ - a) a 14. évét még nem töltötte be, de vizsgára jelentkezését a rádióamatőrök nemzeti képviseleti és érdekvédelmi szervezete támogatja, Kezdő fokozatú;
 
-b) a 14. évét betöltötte és a 16. évét nem töltötte be, Kezdő, Alap és HAREC fokozatú;
+ - b) a 14. évét betöltötte és a 16. évét nem töltötte be, Kezdő, Alap és HAREC fokozatú;
 
-c) a 16. évét betöltötte és a 60. évét nem töltötte be, Alap és HAREC fokozatú;
+ - c) a 16. évét betöltötte és a 60. évét nem töltötte be, Alap és HAREC fokozatú;
 
-d) a 60. évét betöltötte, Kezdő, Alap és HAREC fokozatú
+ - d) a 60. évét betöltötte, Kezdő, Alap és HAREC fokozatú
 
 rádióamatőr vizsgát tehet.
 
@@ -144,11 +142,11 @@ rádióamatőr vizsgát tehet.
 
 (3) Egyéni amatőr engedélyt kaphat az a természetes személy, aki
 
-a) Magyarországon kiállított „Kezdő”, „Alap”, „HAREC” fokozatú rádióamatőr vizsgabizonyítvánnyal rendelkezik, vagy
+ - a) Magyarországon kiállított „Kezdő”, „Alap”, „HAREC” fokozatú rádióamatőr vizsgabizonyítvánnyal rendelkezik, vagy
 
-b) „CEPT Novice”, vagy „HAREC” fokozatú vizsgabizonyítvánnyal rendelkezik, vagy
+ - b) „CEPT Novice”, vagy „HAREC” fokozatú vizsgabizonyítvánnyal rendelkezik, vagy
 
-c) olyan külföldön kiállított amatőr engedéllyel rendelkezik, amely nem „Entry Licence”, nem „CEPT Novice Licence” és nem „CEPT Licence” fokozatú.
+ - c) olyan külföldön kiállított amatőr engedéllyel rendelkezik, amely nem „Entry Licence”, nem „CEPT Novice Licence” és nem „CEPT Licence” fokozatú.
 
 (4) Közösségi amatőr engedélyt rádióamatőr közösség kaphat.
 
@@ -156,11 +154,11 @@ c) olyan külföldön kiállított amatőr engedéllyel rendelkezik, amely nem �
 
 (6) A rádióamatőr
 
-a) a 18. évét be nem töltött, vagy 60. évét betöltött személy esetén Magyarországon kiállított Kezdő fokozatú vizsgabizonyítvány alapján Kezdő fokozatú,
+ - a) a 18. évét be nem töltött, vagy 60. évét betöltött személy esetén Magyarországon kiállított Kezdő fokozatú vizsgabizonyítvány alapján Kezdő fokozatú,
 
-b) Alap fokozatú vagy „CEPT Novice” vizsgabizonyítvány alapján CEPT Novice fokozatú,
+ - b) Alap fokozatú vagy „CEPT Novice” vizsgabizonyítvány alapján CEPT Novice fokozatú,
 
-c) HAREC fokozatú vizsgabizonyítvány alapján CEPT fokozatú
+ - c) HAREC fokozatú vizsgabizonyítvány alapján CEPT fokozatú
 
 egyéni amatőr engedélyt kaphat.
 
@@ -176,9 +174,9 @@ egyéni amatőr engedélyt kaphat.
 
 (12) A hatóság honlapján közzéteszi, és változás esetén módosítja
 
-a) a CEPT T/R 61-01 Ajánlás „A CEPT engedély és a CEPT országok nemzeti engedélyei közötti megfelelőségi táblázat” című II. függeléke 2. oszlopának tartalmát, valamint „A nem CEPT országok nemzeti engedélyei és a CEPT engedély közötti megfelelőségi táblázat, valamint a CEPT igazgatások által a jelen ajánlásnak megfelelően kibocsátott engedélyek tulajdonosaira érvényes működési jogosultságok nem CEPT országokban” című IV. függeléke 2. és 4. oszlopának tartalmát,
+ - a) a CEPT T/R 61-01 Ajánlás „A CEPT engedély és a CEPT országok nemzeti engedélyei közötti megfelelőségi táblázat” című II. függeléke 2. oszlopának tartalmát, valamint „A nem CEPT országok nemzeti engedélyei és a CEPT engedély közötti megfelelőségi táblázat, valamint a CEPT igazgatások által a jelen ajánlásnak megfelelően kibocsátott engedélyek tulajdonosaira érvényes működési jogosultságok nem CEPT országokban” című IV. függeléke 2. és 4. oszlopának tartalmát,
 
-b) a CEPT ECC/REC/(05)06 Ajánlás „A CEPT Novice engedély és a CEPT országok nemzeti Novice engedélyei közötti megfelelőségi táblázat” című II. függeléke 2. oszlopának tartalmát, valamint „A nem CEPT országok nemzeti Novice engedélyei és a CEPT Novice engedély közötti megfelelőségi táblázat, valamint a CEPT igazgatások által a jelen ajánlásnak megfelelően kibocsátott Novice engedélyek tulajdonosaira érvényes működési jogosultságok nem CEPT országokban” című IV. függeléke 2. és 4. oszlopának tartalmát.
+ - b) a CEPT ECC/REC/(05)06 Ajánlás „A CEPT Novice engedély és a CEPT országok nemzeti Novice engedélyei közötti megfelelőségi táblázat” című II. függeléke 2. oszlopának tartalmát, valamint „A nem CEPT országok nemzeti Novice engedélyei és a CEPT Novice engedély közötti megfelelőségi táblázat, valamint a CEPT igazgatások által a jelen ajánlásnak megfelelően kibocsátott Novice engedélyek tulajdonosaira érvényes működési jogosultságok nem CEPT országokban” című IV. függeléke 2. és 4. oszlopának tartalmát.
 
 ## 7. Az amatőr engedély iránti kérelem
 
@@ -188,29 +186,29 @@ b) a CEPT ECC/REC/(05)06 Ajánlás „A CEPT Novice engedély és a CEPT ország
 
 (3) A kérelemhez csatolni kell:
 
-a) egyéni amatőr engedély iránti kérelem esetén
+ - a) egyéni amatőr engedély iránti kérelem esetén
 
-aa) a vizsgabizonyítvány másolatát, ha azt Magyarországon 2002. január 1. előtt állították ki, vagy külföldön „CEPT Novice”, illetve „HAREC” fokozat megjelöléssel állították ki, vagy
+   - aa) a vizsgabizonyítvány másolatát, ha azt Magyarországon 2002. január 1. előtt állították ki, vagy külföldön „CEPT Novice”, illetve „HAREC” fokozat megjelöléssel állították ki, vagy
 
-ab) a külföldön kiállított amatőr engedély másolatát, ha az nem „CEPT Novice Licence” és nem „CEPT Licence” fokozatú;
+   - ab) a külföldön kiállított amatőr engedély másolatát, ha az nem „CEPT Novice Licence” és nem „CEPT Licence” fokozatú;
 
-b) közösségi amatőr engedély iránti kérelem esetén
+ - b) közösségi amatőr engedély iránti kérelem esetén
 
-ba) az irányító kezelő Magyarországon kiállított érvényes amatőr engedélyének számát, egyéni hívójelét,
+   - ba) az irányító kezelő Magyarországon kiállított érvényes amatőr engedélyének számát, egyéni hívójelét,
 
-bb) a rádióamatőr közösség képviseletére jogosult személy nevét és meghatalmazását, valamint a közösség adószámát, ennek hiányában a cégjegyzésre jogosult személy adóazonosító jelét,
+   - bb) a rádióamatőr közösség képviseletére jogosult személy nevét és meghatalmazását, valamint a közösség adószámát, ennek hiányában a cégjegyzésre jogosult személy adóazonosító jelét,
 
-bc) *(hatályon kívül)*
+   - bc) *(hatályon kívül)*
 
-c) különleges amatőr engedély iránti kérelem esetén
+ - c) különleges amatőr engedély iránti kérelem esetén
 
-ca) a kitöltött amatőrállomás adatlapot, a versenyállomás, az alkalmi és a rádiós tájfutó versenyen elhelyezett amatőrállomás esetének kivételével,
+   - ca) a kitöltött amatőrállomás adatlapot, a versenyállomás, az alkalmi és a rádiós tájfutó versenyen elhelyezett amatőrállomás esetének kivételével,
 
-cb) a rádióamatőrök nemzeti képviseleti és érdekvédelmi szervezetének a hívójelre, adásjellemzőkre, más elektronikus hírközlő hálózathoz való kapcsolódás módjára és érvényességi időre vonatkozó véleményét, a rádiós tájfutó versenyen elhelyezett amatőrállomás esetének kivételével,
+   - cb) a rádióamatőrök nemzeti képviseleti és érdekvédelmi szervezetének a hívójelre, adásjellemzőkre, más elektronikus hírközlő hálózathoz való kapcsolódás módjára és érvényességi időre vonatkozó véleményét, a rádiós tájfutó versenyen elhelyezett amatőrállomás esetének kivételével,
 
-cc) *(hatályon kívül)*
+   - cc) *(hatályon kívül)*
 
-cd) rádióamatőr közösség által üzemben tartott amatőrállomás esetén a képviseletre jogosult személy nevét és meghatalmazását, valamint a közösség adószámát, ennek hiánya esetén a cégjegyzésre jogosult személy adóazonosító jelét.
+   - cd) rádióamatőr közösség által üzemben tartott amatőrállomás esetén a képviseletre jogosult személy nevét és meghatalmazását, valamint a közösség adószámát, ennek hiánya esetén a cégjegyzésre jogosult személy adóazonosító jelét.
 
 (4) A hatóság kérheti a külföldön kiállított vizsgabizonyítvány, illetve amatőr engedély eredeti példányának bemutatását.
 
@@ -224,33 +222,33 @@ cd) rádióamatőr közösség által üzemben tartott amatőrállomás esetén 
 
 **10. §** (1) Az amatőr engedély tartalmazza:
 
-a) az engedélyes nevét;
+ - a) az engedélyes nevét;
 
-b) az engedélyes címét (természetes személy esetén lakcímét, civil szervezet és oktatási intézmény esetén a székhelyét);
+ - b) az engedélyes címét (természetes személy esetén lakcímét, civil szervezet és oktatási intézmény esetén a székhelyét);
 
-c) természetes személy esetén az engedélyes születési idejét;
+ - c) természetes személy esetén az engedélyes születési idejét;
 
-d) közösségi és – a rádiós tájfutó versenyen elhelyezett amatőrállomás kivételével – különleges amatőr engedély esetén a telepített amatőrállomás telepítési helyét (QTH);
+ - d) közösségi és – a rádiós tájfutó versenyen elhelyezett amatőrállomás kivételével – különleges amatőr engedély esetén a telepített amatőrállomás telepítési helyét (QTH);
 
-e) rádióamatőr átjátszó állomás, jeladó állomás, kapuállomás és rádióamatőr információt sugárzó amatőrállomás esetén az amatőrállomás sugárzási jellemzőit;
+ - e) rádióamatőr átjátszó állomás, jeladó állomás, kapuállomás és rádióamatőr információt sugárzó amatőrállomás esetén az amatőrállomás sugárzási jellemzőit;
 
-f) az engedély számát;
+ - f) az engedély számát;
 
-g) az állomás hívójelét;
+ - g) az állomás hívójelét;
 
-h) egyéni amatőr engedély esetén az engedély kiállításául szolgáló vizsgabizonyítvány számát;
+ - h) egyéni amatőr engedély esetén az engedély kiállításául szolgáló vizsgabizonyítvány számát;
 
-i) rádióamatőr közösség részére kiállított engedély esetén az irányító kezelő amatőr engedélyének számát;
+ - i) rádióamatőr közösség részére kiállított engedély esetén az irányító kezelő amatőr engedélyének számát;
 
-j) az engedély fokozatát;
+ - j) az engedély fokozatát;
 
-k) a kézi távíró adásmód használatának módját, lehetőségét;
+ - k) a kézi távíró adásmód használatának módját, lehetőségét;
 
-l) az engedély érvényességi idejét;
+ - l) az engedély érvényességi idejét;
 
-m) a kiállító hatóság megnevezését;
+ - m) a kiállító hatóság megnevezését;
 
-n) az engedély kiállításának idejét.
+ - n) az engedély kiállításának idejét.
 
 (2) Az egyéni amatőr engedély melléklete a 8. melléklet szerinti rádióamatőr igazolvány.
 
@@ -296,9 +294,9 @@ n) az engedély kiállításának idejét.
 
 (11) A megszűnt egyéni amatőr engedélyhez tartozó hívójel más kérelmező számára
 
-a) Kezdő és CEPT Novice fokozatú engedély esetén 10 év,
+ - a) Kezdő és CEPT Novice fokozatú engedély esetén 10 év,
 
-b) CEPT fokozatú engedély esetén 10 év
+ - b) CEPT fokozatú engedély esetén 10 év
 
 elteltével jelölhető ki újra.
 
@@ -306,13 +304,13 @@ elteltével jelölhető ki újra.
 
 **13. §** (1) Ha az amatőrállomás telepítési helye ideiglenesen megváltozik, az új telepítési helyről történő forgalmazás során a hívójel a következők szerint kiegészíthető:
 
-a) hívójel/M földi mozgó amatőrállomás esetén;
+ - a) hívójel/M földi mozgó amatőrállomás esetén;
 
-b) hívójel/MM belvízi vagy tengeri mozgó amatőrállomás esetén;
+ - b) hívójel/MM belvízi vagy tengeri mozgó amatőrállomás esetén;
 
-c) hívójel/AM légi mozgó amatőrállomás esetén;
+ - c) hívójel/AM légi mozgó amatőrállomás esetén;
 
-d) hívójel/P kitelepült állomás esetén.
+ - d) hívójel/P kitelepült állomás esetén.
 
 (2) Annak a rádióamatőrnek, aki a külföldön kiállított „CEPT Novice Licence” vagy „CEPT Licence” fokozatú amatőr engedélyében meghatározott hívójelét kívánja használni – a saját hívójele előtt, attól törtvonallal elválasztva – a HA betűpárt is használnia kell.
 
@@ -338,59 +336,59 @@ d) hívójel/P kitelepült állomás esetén.
 
 (6) A forgalmazás során tilos:
 
-a) ipari, gazdasági, kereskedelmi jellegű adat és tájékoztatás közlése;
+ - a) ipari, gazdasági, kereskedelmi jellegű adat és tájékoztatás közlése;
 
-b) a nem amatőrszolgálat célját szolgáló elektronikus hírközlő hálózat igénybevételének helyettesítése;
+ - b) a nem amatőrszolgálat célját szolgáló elektronikus hírközlő hálózat igénybevételének helyettesítése;
 
-c) műsor sugárzása;
+ - c) műsor sugárzása;
 
-d) hamis vagy megtévesztő jel adása;
+ - d) hamis vagy megtévesztő jel adása;
 
-e) információrejtő módszer alkalmazása;
+ - e) információrejtő módszer alkalmazása;
 
-f) azonosítás nélküli jel adása;
+ - f) azonosítás nélküli jel adása;
 
-g) moduláció nélküli vivőfrekvencia 2 percen túli sugárzása, kivéve a rádióamatőr jeladó állomás esetét;
+ - g) moduláció nélküli vivőfrekvencia 2 percen túli sugárzása, kivéve a rádióamatőr jeladó állomás esetét;
 
-h) egyéni, vagy közösségi rádióamatőr állomás más elektronikus hírközlő hálózattal való összekapcsolása;
+ - h) egyéni, vagy közösségi rádióamatőr állomás más elektronikus hírközlő hálózattal való összekapcsolása;
 
-i) különleges rádióamatőr állomás más elektronikus hírközlő hálózattal való összekapcsolása oly módon, hogy a létrejövő elektronikus hírközlő hálózat:
+ - i) különleges rádióamatőr állomás más elektronikus hírközlő hálózattal való összekapcsolása oly módon, hogy a létrejövő elektronikus hírközlő hálózat:
 
-ia) részben, vagy teljesen a nyilvános elektronikus hírközlő hálózatok kiváltását, vagy
+   - ia) részben, vagy teljesen a nyilvános elektronikus hírközlő hálózatok kiváltását, vagy
 
-ib) nem a hullámterjedés vagy műszaki kísérletek céljait
+   - ib) nem a hullámterjedés vagy műszaki kísérletek céljait
 
 szolgálja.
 
 **16. §** (1) Forgalmazás során az amatőrállomás telepítési helyén kell tartani a következő dokumentumokat:
 
-a) amatőr engedély;
+ - a) amatőr engedély;
 
-b) forgalmi napló;
+ - b) forgalmi napló;
 
-c) az amatőrállomás műszaki leírása, tömbvázlata, a saját készítésű berendezések kapcsolási rajza.
+ - c) az amatőrállomás műszaki leírása, tömbvázlata, a saját készítésű berendezések kapcsolási rajza.
 
 (2) Közösségi és különleges amatőr engedély alapján üzemeltetett amatőrállomás esetén az állomás telepítési helyén kell tartani az (1) bekezdésben felsoroltakon kívül az állomáson rádióamatőr tevékenységet folytató személyek névjegyzékét.
 
 (3) Az (1) és (2) bekezdésben foglaltaktól eltérően:
 
-a) mozgó amatőrállomás és nem a telepítési helyen történő forgalmazás esetén az amatőr engedélyt, vagy a rádióamatőr igazolványt, továbbá a személyazonosságot igazoló iratot kell kéznél tartani;
+ - a) mozgó amatőrállomás és nem a telepítési helyen történő forgalmazás esetén az amatőr engedélyt, vagy a rádióamatőr igazolványt, továbbá a személyazonosságot igazoló iratot kell kéznél tartani;
 
-b) személyzet nélkül működő amatőrállomás esetén az iratokat az engedélyes címén kell tartani.
+ - b) személyzet nélkül működő amatőrállomás esetén az iratokat az engedélyes címén kell tartani.
 
 ## 12. Forgalmi napló
 
 **17. §** (1) A rádióamatőr forgalmi naplót köteles vezetni, és azt az utolsó bejegyzéstől számított legalább 1 évig megőrizni. A forgalmi naplóban összeköttetésenként legalább az alábbi adatokat kell naprakészen feltüntetni:
 
-a) a forgalmazás dátuma;
+ - a) a forgalmazás dátuma;
 
-b) forgalmazás megkezdésének ideje (egyeztetett világidő, UTC szerint);
+ - b) forgalmazás megkezdésének ideje (egyeztetett világidő, UTC szerint);
 
-c) ellenállomás hívójele;
+ - c) ellenállomás hívójele;
 
-d) frekvencia, adásmód;
+ - d) frekvencia, adásmód;
 
-e) összeköttetés minőségi jellemzői (R S T).
+ - e) összeköttetés minőségi jellemzői (R S T).
 
 (2) Átjátszó állomás használata esetén a forgalmi naplóba elegendő az átjátszón való forgalmazás tényét, kezdetét és végét beírni.
 
@@ -444,13 +442,13 @@ b) elektronikus hírközlésre vonatkozó szabályban foglalt előírások súly
 
 (2) E rendelet hatályba lépése előtt kiadott
 
-a) „RA” jelölésű, vagy a CEPT A szintű, Alapfokú vizsgabizonyítvány az e rendelet szerinti, morze vizsgával kiegészített Alap fokozatú,
+ - a) „RA” jelölésű, vagy a CEPT A szintű, Alapfokú vizsgabizonyítvány az e rendelet szerinti, morze vizsgával kiegészített Alap fokozatú,
 
-b) „RB”, „RC” jelölésű, vagy a CEPT A szintű, közép- és felsőfokú vizsgabizonyítvány az e rendelet szerinti, morze vizsgával kiegészített HAREC fokozatú,
+ - b) „RB”, „RC” jelölésű, vagy a CEPT A szintű, közép- és felsőfokú vizsgabizonyítvány az e rendelet szerinti, morze vizsgával kiegészített HAREC fokozatú,
 
-c) „URH”, vagy „UA” jelölésű, vagy a CEPT B szintű, Alapfokú vizsgabizonyítvány az e rendelet szerinti Alap fokozatú,
+ - c) „URH”, vagy „UA” jelölésű, vagy a CEPT B szintű, Alapfokú vizsgabizonyítvány az e rendelet szerinti Alap fokozatú,
 
-d) „UB” vagy „UC” jelölésű, vagy a CEPT B szintű, közép- és felsőfokú vizsgabizonyítvány az e rendelet szerinti HAREC fokozatú
+ - d) „UB” vagy „UC” jelölésű, vagy a CEPT B szintű, közép- és felsőfokú vizsgabizonyítvány az e rendelet szerinti HAREC fokozatú
 
 vizsgabizonyítványnak felel meg.
 
