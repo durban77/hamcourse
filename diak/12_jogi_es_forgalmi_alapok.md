@@ -10,6 +10,10 @@ theme: gaia
 
 ## HAREC fokozat
 
+Linkek:
+- https://cept.org/ecc/topics/radio-amateurs
+- https://docdb.cept.org/
+
 ---
 
 # Vizsgafokozatok és engedélyek

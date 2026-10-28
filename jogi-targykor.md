@@ -52,7 +52,7 @@ Készült: [marp](https://marp.app/) [vscode](https://code.visualstudio.com/) [g
 
 - adás előtt hallgatunk, a minimum szükséges teljesítménnyel adunk, saját jelünket megfigyeljük
 
-- a rádióamatőr sávok magtartása és megőrzése
+- a rádióamatőr sávok megtartása és megőrzése
 
 ---
 
@@ -70,7 +70,7 @@ Készült: [marp](https://marp.app/) [vscode](https://code.visualstudio.com/) [g
 
 # 3/1 Nemzetközi Távközlési Egyesület (ITU) Rádiótávközlési Szabályzata
 
-[wiki](en.wikipedia.org/wiki/ITU_Radio_Regulations)
+[wiki](https://en.wikipedia.org/wiki/ITU_Radio_Regulations)
 [original](https://www.itu.int/hub/publication/r-reg-rr-2024/)
 
 ---
