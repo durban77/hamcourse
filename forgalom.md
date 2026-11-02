@@ -53,7 +53,7 @@ Készült: [marp](https://marp.app/) [vscode](https://code.visualstudio.com/) [g
 
     A rádióamatőrök tegeződve, egymást keresztnéven szólítva kommunikálnak.
 
-Azonos keresztnév esetében vagy társaságban a hívójelet használjuk segítségnek.
+Azonos keresztnév esetében vagy társaságban a hívójelet használjuk segítségnek. `pl: Dani, HA5UDS Dani, 5UDS Dani, 5UDS`
 Ismeretlen név esetén OM (:older_man: amatőrtárs) vagy YL (:woman: amatőr hölgy) megnevezéssel élünk.
 Írásban a :seven::three: rövidítéssel köszönünk el. Jókívánságainkat nagy távolságú összeköttetéseket kívánva fejezzük ki (`DX`).
 
@@ -177,14 +177,14 @@ Versenyen nem ritka a 5/9 riport vagy távírón a 5NN.
 
 |IARU régiók, 1-3|QTH (maidenhead) lokátor|
 |-|-|
-|![ITU régiók](https://ct1eni.pt/wp-content/uploads/ITU_Reg.gif)|![Lokátor](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Maidenhead_grid_over_Europe.svg/292px-Maidenhead_grid_over_Europe.svg.png)|
-||[Lokátor](https://www.egloff.eu/qralocator/)|
+|![ITU régiók](iaru.webp)|![Lokátor](maidenhead.webp)|
+||[JN97ML](https://www.egloff.eu/qralocator/)|
 
 ---
 
 ## Hívójelek :telephone_receiver:
 
-Prefix, ami azonosítja az országot/régiót; utána az állomást és/vagy operátort azonosító egyedi betű/számsor. 
+**Prefix**, ami azonosítja az országot/régiót; utána az állomást és/vagy operátort azonosító egyedi betű/számsor. 
 Betűk az angol ábécé 26 karaktere, számok a tízes számrendszer számjegyei.
 
     0=O és 1=I hasonlóság miatt az első karakter O illetve I lehet, nulla vagy egy nem.
@@ -195,7 +195,7 @@ Tovább kiegészíthető:
 
 ---
 
-## Nemzeti azonosító jelek (prefix-ek) :japan: 
+## Nemzeti azonosító jelek (prefix-ek) [:japan:](eu-map.jpg)
 
 |Ország|Prefix|Ország|Prefix|
 |-|-|-|-|
@@ -211,15 +211,28 @@ szomszédos országok és az európai országok prefixei
 
 ---
 
+## Különleges állomások hívójelei :trophy::fox_face:
+
+A versenyállomás hívójele `(HA|HG)[0-9][A-Z]`
+
+A rádiós tájfutó versenyen elhelyezett amatőrállomás hívójele csak [MO, MOE, MOI, MOS, MOH vagy MO5](https://www.iaru-r1.org/wp-content/uploads/2021/06/ARDF-Rules_B_2020.pdf) lehet.
+
+|Hívójel|Morze kód|Hívójel|Morze kód|Hívójel|Morze kód| 
+|-|-|-|-|-|-|
+|MO|`-- ---`|MOE|`-- --- .`|MOI|`-- --- ..`|
+|MOS|`-- --- ...`|MOH|`-- --- ....`|MO5|`-- --- .....`|
+
+---
+
 ## amatőrszolgálatok frekvenciasávjai :1234:
 
 * [Magyarországon kijelölt amatőr sávok](https://stir.nmhh.hu/publicview/?p=d&name=3melleklet&lang=1#jump_to_3557)
 
-![Sávterv](https://rolfje.files.wordpress.com/2014/11/iaru-reg-1-bandplan-up-to-500mhz.png)
+![Sávterv](iaru-reg-1-bandplan-up-to-500mhz.png)
 
 ---
 
-## Sávtervek :soon: :end:
+## Sávtervek :soon: :end: _(ajánlás)_
 
 IARU sávtervek útmutatást adnak az amatőr sávok hatékonyabb kihasználásához.
 A sávterv célja, hogy az adó és a vevő megtalálja egymást, mindkét oldal hasonló célra hasonló frekvenciát válasszon és a sávon belül ugyanúgy helyezkedjen.
@@ -233,7 +246,7 @@ Különleges helyzetben, ha indokolt, ettől el lehet térni.
 
 ### Példa, 10m sávterv az egyes régióban
 
-|CW 200|Digimode 500|Beacon 2700|⩝,noFM 2700|All mode|🛰 downlink|:guard: guard|
+|CW 200|Digimode 500|Beacon 2700|⩝,noFM 2700|All mode|🛰 :satellite: downlink|:guard: guard|
 |-|-|-|-|-|-|-|
 |28.000-|28.070-|28.190-|28.225-|29.000-|29.300-|29.510-|
 
@@ -338,7 +351,7 @@ Adott sávon belül, általában FM módban két frekvenciát használva, egyid�
 |-|-|-|:-:|:-:|
 |145.600 MHz|-0.6 MHz|114.8 / 114.8|Analóg, FM|HG5RVB, JN97LM|
 
-![BF LCD](https://punisher.com.ua/content/uploads/images/how-to-set-up-baofeng-uv-5r-correctly-uv-5ra-uv-5rb-uv-5re-bf-f8-pofung/how-to-set-up-baofeng-uv-5r-correctly-uv-5ra-uv-5rb-uv-5re-bf-f8-pofung.jpeg) [Magyarországi átjátszók](http://ha2to.orbel.hu/content/repeaters/hu/index.html) [Nemzetközi átjátszó lista](https://www.repeaterbook.com/row_repeaters/index.php?state_id=HU)
+![BF LCD](baofeng.jpeg) [Magyarországi átjátszók](http://ha2to.orbel.hu/content/repeaters/hu/index.html) [Nemzetközi átjátszó lista](https://www.repeaterbook.com/row_repeaters/index.php?state_id=HU)
 
 ---
 
