@@ -2,7 +2,7 @@
 
 A kérdések az NMHH minta feladatlapok (`teszt/`) stílusát követik, a tanfolyam anyagából készültek. Minden kérdésnél pontosan egy válasz helyes (A, B vagy C), kérdésenként 4 pont.
 
-A helyes válaszok és magyarázatok a [gyakorlo_valaszok.md](gyakorlo_valaszok.md) fájlban vannak.
+A helyes válaszok és magyarázatok a [gyakorlo_valaszok_01.md](gyakorlo_valaszok_01.md) fájlban vannak.
 
 > A jogi és forgalmi szabályok változhatnak: a vizsga előtt ellenőrizd az aktuális hatályos szöveget.
 

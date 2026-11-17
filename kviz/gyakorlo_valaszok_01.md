@@ -1,6 +1,6 @@
 # Gyakorló feladatlap – helyes válaszok és magyarázatok
 
-A kérdések: [gyakorlo_kerdesek.md](gyakorlo_kerdesek.md).
+A kérdések: [gyakorlo_kerdesek_01.md](gyakorlo_kerdesek_01.md).
 
 > A jogi és forgalmi szabályok változhatnak: a vizsga előtt ellenőrizd az aktuális hatályos szöveget.
 
